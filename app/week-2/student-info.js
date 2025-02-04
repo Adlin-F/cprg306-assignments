@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Page from "./page";
 export default function Info() {
   return (
     <div>
